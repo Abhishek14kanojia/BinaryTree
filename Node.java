@@ -8,7 +8,7 @@ public class Node implements Comparable<Node>{
 			 super();
 			 this.data = data;
 			 
-		 }
+		 } 
 	
 	
 	@Override

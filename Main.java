@@ -27,7 +27,7 @@ public class Main {
 		obj.inorder();
 	
 		obj.size();
-	
+		obj.search(63);
 	}
 
 }
